@@ -15,3 +15,5 @@ function scrollToIdOnClick(event) {
         behavior: "smooth"
     })
 }
+
+AOS.init();

@@ -1,7 +1,7 @@
 :root {
-    --purple: #8257e5;
+    --purple: #6e35f2;
     --light-gray: #605e63;
-    --dark-gray: #4b00fa09;
+    --dark-gray: #6e35f212;
     --background: #242526;
     --background-card: #25282c;
 }
@@ -21,6 +21,9 @@ body {
     color: var(--light-gray);
     background: var(--background);
     scroll-behavior: smooth;
+    background-image: url(../image/Shapes.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
 }
 
 /* Componentes */
@@ -91,7 +94,7 @@ h5 {
 .header {
     margin-top: 150px;
     height: 750px;
-    margin-bottom: 200px;
+    margin-bottom: 200px;   
 }
 
 .header h1 {
