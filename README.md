@@ -1,4 +1,3 @@
-![gustavodocarmokamitani github io_Portfolio-version-3 0 0_](https://user-images.githubusercontent.com/26381791/157081619-d9d78401-61df-4e4c-b65c-1c8004db4a0d.png)
 ## Welcome! 👋
 --------------------------------------------------------------------------
 
@@ -7,3 +6,5 @@
 ## https://gustavodocarmokamitani.github.io/Portfolio-version-3.0.0/
 
 --------------------------------------------------------------------------
+
+![gustavodocarmokamitani github io_Portfolio-version-3 0 0_ (1)](https://user-images.githubusercontent.com/26381791/157081727-062e4ac1-a721-4503-b5a2-3565a8be0e47.png)
